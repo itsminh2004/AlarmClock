@@ -17,4 +17,4 @@
     + Bắt đầu đếm thời gian
     + Hiển thị thời gian chính xác theo giây
     + Có thể đặt lại về trạng thái ban đầu
-- Demo: 
+
