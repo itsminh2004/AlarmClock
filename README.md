@@ -1,5 +1,5 @@
--Giới thiệu: Đây là ứng dụng đồng hồ được phát triển bằng Java, cho phép người dùng xem thời gian thực, đặt báo thức, xem giờ thành phố( 5 thành phố) và sử dụng chức năng bấm giờ.
--Mục tiêu của dự án:
+- Giới thiệu: Đây là ứng dụng đồng hồ được phát triển bằng Java, cho phép người dùng xem thời gian thực, đặt báo thức, xem giờ thành phố( 5 thành phố) và sử dụng chức năng bấm giờ.
+- Mục tiêu của dự án:
   +Luyện tập lập trình Java.
   +Hiểu cách xử lý thời gian thực trong ứng dụng.
   +Áp dụng Thread / Timer trong Java.
